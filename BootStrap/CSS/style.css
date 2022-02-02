@@ -1,0 +1,33 @@
+.navbar {
+    background-color: rgb(113, 187, 90);
+    font-size: larger;
+}
+
+.quem-somos{
+    background-color: rgb(18, 104, 57);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+}
+
+.margin{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.parceiros{
+    background-color: #ADD8E6;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+}
+
+.bg-foolter{
+    background-color: black;
+    color: white;
+}
+
+.servicos{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+}
